@@ -1,6 +1,6 @@
 # Obesity_Prediction
 
-![Image](https://cdn.pixabay.com/photo/2022/03/07/07/20/weighing-scale-7053082_1280.jpg)
+![Image](C:\Users\lebo\OneDrive\Documents\GitHub\Obesity_Prediction)
 
 ## 📌 Table of Contents
 - [📌 Overview](#-overview)
