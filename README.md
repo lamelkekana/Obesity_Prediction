@@ -8,7 +8,7 @@
 - [🎯 Objectives](#-Objectives)
 - [🔄 Notebook Workflow](#-Notebook-Workflow)
 - [📦 Packages](#-Packages)
-- [🖥️ Environment Setup](#-environment-setup)
+- [🖥️ Environment Setup](#-Environment-Setup)
 - [📂 Opening the Jupyter Notebook File](#-Opening-the-Jupyter-Notebook-File)
 - [📝 License](#-License)
 
