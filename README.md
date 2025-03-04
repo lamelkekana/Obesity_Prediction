@@ -45,6 +45,12 @@ The objective of this analysis is to classify individuals into different obesity
 ### 🖥️ Environment Setup
 It's highly recommended to use a virtual environment for your projects. Below are the steps to set up and activate a Conda environment.
 
+- first clone the repo
+```
+  # clone repo
+git clone https://github.com/lamelkekana/Obesity_Prediction.git
+```
+
 **Create the new evironment - you only need to do this once**
 
 ```
@@ -90,10 +96,8 @@ pip install -r requirements.txt
 Make sure the environment is activated as per instruction above
 
 ```
-# clone repo
-git clone https://github.com/lamelkekana/Obesity_Prediction.git
 
-# change directory to the path o your cloned repo
+# change directory to the path to your cloned repo
 cd <repository_folder>
 
 # Launch notebook
