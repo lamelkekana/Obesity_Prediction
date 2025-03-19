@@ -43,34 +43,14 @@ The objective of this analysis is to classify individuals into different obesity
 🏎️ xgboost
 
 ### 🖥️ Environment Setup
-It's highly recommended to use a virtual environment for your projects. Below are the steps to set up and activate a Conda environment.
+It's highly recommended to use a virtual environment for your projects. 
 
 - first clone the repo
 ```
   # clone repo
 git clone https://github.com/lamelkekana/Obesity_Prediction.git
 ```
-
-**Create the new evironment - you only need to do this once**
-
-```
- # create the conda environment
-conda create --name <env>
-```
-
-**This is how you activate the virtual environment in a terminal and install the project dependencies**
-
-```
-# activate the virtual environment
-conda activate <env>
-# install the pip package
-conda install pip
-# install the requirements for this project, requirements.txt is provided in the the repo
-pip install -r requirements.txt ```
-```
-
-Alternatively, You can use Python’s built-in venv module to create a virtual environment
-
+You can use Python’s built-in venv module to create a virtual environment
 **Create the new evironment**
 
 ```
@@ -89,6 +69,24 @@ python -m ensurepip --upgrade
 ```
 pip install -r requirements.txt
 
+```
+Aternatively ,you can use use conda to create environment,this is applicable if you have anaconda installed in your machine
+**Create the new evironment** -
+
+```
+ # create the conda environment
+conda create --name <env>
+```
+
+**This is how you activate the virtual environment in a terminal and install the project dependencies**
+
+```
+# activate the virtual environment
+conda activate <env>
+# install the pip package
+conda install pip
+# install the requirements for this project, requirements.txt is provided in the the repo
+pip install -r requirements.txt ```
 ```
 
 ### 📂 Opening the Jupyter Notebook File
