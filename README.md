@@ -51,6 +51,7 @@ It's highly recommended to use a virtual environment for your projects.
 git clone https://github.com/lamelkekana/Obesity_Prediction.git
 ```
 You can use Python’s built-in venv module to create a virtual environment
+
 **Create the new evironment**
 
 ```
@@ -71,6 +72,7 @@ pip install -r requirements.txt
 
 ```
 Aternatively ,you can use use conda to create environment,this is applicable if you have anaconda installed in your machine
+
 **Create the new evironment** -
 
 ```
