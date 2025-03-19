@@ -40,7 +40,6 @@ The objective of this analysis is to classify individuals into different obesity
 📊 matplotlib
 🌊🐦 seaborn
 🧠 scikit-learn
-🏎️ xgboost
 
 ### 🖥️ Environment Setup
 It's highly recommended to use a virtual environment for your projects. 
