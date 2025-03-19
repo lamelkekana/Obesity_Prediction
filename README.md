@@ -19,7 +19,7 @@ This repository contains a Jupyter Notebook that predicts obesity levels based o
 
 ### 📊 Dataset Description
 
-"This dataset contains information for estimating obesity levels in individuals from Mexico, Peru, and Colombia, based on their eating habits and physical condition. It includes 17 attributes and 2,111 records, with each record labeled by the class variable 'Obesity' (Obesity Level), which classifies individuals into the following categories: Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, and Obesity Type III."
+This dataset contains information for estimating obesity levels in individuals from Mexico, Peru, and Colombia, based on their eating habits and physical condition. It includes 17 attributes and 2,111 records, with each record labeled by the class variable 'Obesity' (Obesity Level), which classifies individuals into the following categories: Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, and Obesity Type III.
 
 ### 🎯 Objectives
 
